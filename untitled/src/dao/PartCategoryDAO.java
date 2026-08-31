@@ -17,7 +17,7 @@ public class PartCategoryDAO {
 
     public List<PartCategory> getAllCategories() {
         return categories;
-    }
+    }gfhfhthcgfmhgjgj
 }
 
 /*What it does: Stores the structural categories used to organize upgrades
